@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/回执.json",
+      "bytes": 4114,
+      "sha256": "6e013679afd0fe1b36e0df93d50cba5d9869211916a3e0c6f75670ae45e9bd7c",
+      "origin": "this daily radar delivery",
+      "purpose": "required deliverable or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/来源与读取范围.md",
+      "bytes": 2957,
+      "sha256": "bf05158d4cf6a2c5ad6c687ae4927669195a828aeae01cd88a3b30555dd983a3",
+      "origin": "this daily radar delivery",
+      "purpose": "required deliverable or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/网页证据摘录.json",
+      "bytes": 1765,
+      "sha256": "5c17a18273aa4b921b3c86b5b7f8f16db306275a40a0990caf2c9b29971b76a8",
+      "origin": "this daily radar delivery",
+      "purpose": "required deliverable or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/README.md",
+      "bytes": 1467,
+      "sha256": "766099915f8d1318d93503ef0c38b5d2a4c2b1fdb8d96d816ef692467876f581",
+      "origin": "this daily radar delivery",
+      "purpose": "required deliverable or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/01-每日选题任务.md",
+      "bytes": 2184,
+      "sha256": "53ea40c812cd42644d6c1530259e3af3d214b3fd91501848eed72f6e3bcefa26",
+      "origin": "PMO task",
+      "purpose": "task input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261013/可拍选题卡.md",
+      "bytes": 7509,
+      "sha256": "694e91df75625981aa6af7628bbe10176ca0e815f8cb201cffe1e766234b4dcc",
+      "origin": "this daily radar delivery",
+      "purpose": "required deliverable or review evidence",
+      "retain": true
+    }
+  ],
+  "temporary_files": [],
+  "downloads": [],
+  "deleted": []
+}

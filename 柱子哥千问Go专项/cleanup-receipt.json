@@ -1,0 +1,27 @@
+{
+  "deleted": [
+    {
+      "path": "/Users/USER/Downloads/download.mp4",
+      "bytes": 8676976,
+      "sha256": "ed16359732cfa64cb49d1b8d7d0b65436c713a164730f1b45cfa62155cc28d31",
+      "disposition": "delete verified task temporary duplicate or decoded WAV after ASR"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u5185\u5bb9\u96f7\u8fbe/20261013/\u67f1\u5b50\u54e5\u5343\u95eeGo\u4e13\u9879/evidence/audio.wav",
+      "bytes": 4158956,
+      "sha256": "524dd3b377fe5c020e79015817173f80694e362f64a3f7fa1332fd49f55836fe",
+      "disposition": "delete verified task temporary duplicate or decoded WAV after ASR"
+    }
+  ],
+  "df_before": {
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u5185\u5bb9\u96f7\u8fbe/20261013/\u67f1\u5b50\u54e5\u5343\u95eeGo\u4e13\u9879": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 410257100 1589923884    21% 3349274 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+    "/Users/USER/Downloads": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 187783644  12307320    94% 2276374 123073200    2%   /System/Volumes/Data\n"
+  },
+  "df_after": {
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u5185\u5bb9\u96f7\u8fbe/20261013/\u67f1\u5b50\u54e5\u5343\u95eeGo\u4e13\u9879": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 410253048 1589927936    21% 3349273 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+    "/Users/USER/Downloads": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 187775180  12315784    94% 2276373 123157840    2%   /System/Volumes/Data\n"
+  },
+  "at": "2026-10-13T13:33:24.094539+08:00",
+  "retained": "original reference MP4, ASR, viewed images and research evidence",
+  "limit": "df deltas may include concurrent disk work; deleted file bytes are not asserted as freed space"
+}

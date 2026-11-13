@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u5185\u5bb9\u96f7\u8fbe/20261013/\u67f1\u5b50\u54e5\u5343\u95eeGo\u4e13\u9879/media/7695964257132891434.mp4",
+      "bytes": 8676976,
+      "sha256": "ed16359732cfa64cb49d1b8d7d0b65436c713a164730f1b45cfa62155cc28d31",
+      "disposition": "retain research original"
+    },
+    {
+      "path": "/Users/USER/Downloads/download.mp4",
+      "bytes": 8676976,
+      "sha256": "ed16359732cfa64cb49d1b8d7d0b65436c713a164730f1b45cfa62155cc28d31",
+      "disposition": "delete verified task temporary duplicate or decoded WAV after ASR"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u5185\u5bb9\u96f7\u8fbe/20261013/\u67f1\u5b50\u54e5\u5343\u95eeGo\u4e13\u9879/evidence/audio.wav",
+      "bytes": 4158956,
+      "sha256": "524dd3b377fe5c020e79015817173f80694e362f64a3f7fa1332fd49f55836fe",
+      "disposition": "delete verified task temporary duplicate or decoded WAV after ASR"
+    }
+  ],
+  "origin": "user specified Douyin video; native video download; duplicate copied before ASR",
+  "new_reference_only": true
+}

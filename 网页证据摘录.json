@@ -1,0 +1,29 @@
+{
+  "verified_date": "2026-10-13",
+  "source1": {
+    "url": "https://www.codebuddy.cn/docs/workbuddy/Download-History",
+    "tool_result": "web open; turn46view1; body lines206-217",
+    "short_original_row": "v5.7.7 | 2026-10-09",
+    "scope": "official SaaS distribution archive; Mac Apple/Intel and Windows entries visible",
+    "not_verified": ["binary download links actually work", "installed version", "version new features", "scenario success"]
+  },
+  "source2": {
+    "url": "https://www.doubao.com/download/desktop?ug_utm_source=101",
+    "tool_result": "web search; turn45search4; direct open turn46view2 returned zero lines",
+    "short_original_excerpt": "共享 Excel 表格帮你生成图表",
+    "scope": "official-domain indexed search excerpt only",
+    "date_version_export": "UNKNOWN"
+  },
+  "failed_pages": [
+    {"url": "https://www.codebuddy.cn/docs/workbuddy/Changelog", "tool_result": "turn46view0", "error": "(400) Timeout fetching"},
+    {"url": "https://www.workbuddy.cn/", "tool_result": "turn46view3", "error": "Internal Error"},
+    {"url": "https://www.codebuddy.cn/docs/workbuddy/Scenarios", "tool_result": "turn48view0", "error": "(400) Timeout fetching"}
+  ],
+  "search_discarded": {"query": "site.douyin.com five specified account names, AI 2026 10 13 WorkBuddy Doubao", "reason": "unrelated result; no account video or date verified"},
+  "history_inputs": [
+    "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/工作场景入门选题.md",
+    "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/5账号身份映射.json",
+    "/Volumes/EXTERNAL/自媒体/动效参考对比-20261012/逐片拆解.md",
+    "/Volumes/EXTERNAL/自媒体/动效参考对比-20261012/共同点与差距.md"
+  ]
+}
